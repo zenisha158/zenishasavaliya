@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="200px" src="readme.png" height="100px"/></a>
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="175px">, I'm Zenisha Savaliya</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="75px">, I'm Zenisha Savaliya</h1>
 <h3 align="center">Daily learner and Day dreamer!</h3>
 
 
