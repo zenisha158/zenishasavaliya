@@ -1,5 +1,4 @@
-/*<a href="#"><img width="80%" height="500px" src="readme.png" height="100px" style="margin-left:50px"/></a>*/
-![Github Banner](readme.png)
+<a href="#"><img width="80%" height="500px" src="readme.png" height="100px" style="margin-left:50px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="65px">, I'm Zenisha Savaliya</h1>
 <h3 align="center">Daily learner and Day dreamer!</h3>
